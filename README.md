@@ -26,3 +26,7 @@
 - ![Stars](https://img.shields.io/github/stars/NVIDIA-NeMo/RL?style=social)
   ![Forks](https://img.shields.io/github/forks/NVIDIA-NeMo/RL?style=social)
   [Nemo RL](https://github.com/NVIDIA-NeMo/RL)
+
+- ![Stars](https://img.shields.io/github/stars/PrimeIntellect-ai/prime-rl?style=social)
+  ![Forks](https://img.shields.io/github/forks/PrimeIntellect-ai/prime-rl?style=social)
+  [PRIME-RL](https://github.com/PrimeIntellect-ai/prime-rl)
