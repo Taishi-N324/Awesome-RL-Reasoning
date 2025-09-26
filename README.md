@@ -25,7 +25,8 @@
 
 ## Blogs
 
-- (2025) [DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)
+- (2025.08) [ProRL V2 - Prolonged Training Validates RL Scaling Laws](https://hijkzzz.notion.site/prorl-v2)
+- (2025.02) [DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)
 
 ## Frameworks
 
