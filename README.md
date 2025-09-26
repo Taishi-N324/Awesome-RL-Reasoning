@@ -44,3 +44,7 @@
 - ![Stars](https://img.shields.io/github/stars/allenai/open-instruct?style=social)
   ![Forks](https://img.shields.io/github/forks/allenai/open-instruct?style=social)
   [Open Instruct](https://github.com/allenai/open-instruct)
+
+- ![Stars](https://img.shields.io/github/stars/NovaSky-AI/SkyRL?style=social)
+  ![Forks](https://img.shields.io/github/forks/NovaSky-AI/SkyRL?style=social)
+  [SkyRL](https://github.com/NovaSky-AI/SkyRL)
