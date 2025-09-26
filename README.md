@@ -18,7 +18,7 @@
 - (2025.08) [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471)
 - (2025.07) [Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534)
 - (2025.05) [Qwen3 Technical Report](https://arxiv.org/abs/2505.09388)
-- (2025.05) [Seed1.5-Thinking: Advancing Superb Reasoning Models with Reinforcement Learning](https://arxiv.org/abs/2504.13914)
+- (2025.04) [Seed1.5-Thinking: Advancing Superb Reasoning Models with Reinforcement Learning](https://arxiv.org/abs/2504.13914)
 - (2025.01) [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
 - (2025.01) [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599)
 
