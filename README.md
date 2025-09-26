@@ -25,6 +25,7 @@
 
 ## Blogs
 
+- (2025.09) [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference)
 - (2025.08) [ProRL V2 - Prolonged Training Validates RL Scaling Laws](https://hijkzzz.notion.site/prorl-v2)
 - (2025.08) [Your Efficient RL Framework Secretly Brings You Off-Policy RL Training](https://fengyao.notion.site/off-policy-rl#279721e3f6c48092bbe2fcfe0e9c6b33)
 - (2025.02) [DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)
