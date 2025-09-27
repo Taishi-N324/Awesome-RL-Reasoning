@@ -9,6 +9,8 @@
 ### Algorithm
 
 - (2025.07) [Group Sequence Policy Optimization](https://arxiv.org/abs/2507.18071)
+- (2025.06) [Truncated Proximal Policy Optimization](https://arxiv.org/abs/2506.15050)
+- (2025.04) [VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks](https://arxiv.org/abs/2504.05118)
 - (2025.03) [Understanding R1-Zero-Like Training: A Critical Perspective](https://arxiv.org/abs/2503.20783)
 - (2025.03) [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/abs/2503.14476)
 - (2024.02) [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
