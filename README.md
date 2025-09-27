@@ -27,6 +27,7 @@
 
 ## Blogs
 
+- (2025.09) [When Speed Kills Stability: Demystifying RL Collapse from the Training-Inference Mismatch](https://yingru.notion.site/When-Speed-Kills-Stability-Demystifying-RL-Collapse-from-the-Training-Inference-Mismatch-271211a558b7808d8b12d403fd15edda)
 - (2025.09) [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference)
 - (2025.08) [ProRL V2 - Prolonged Training Validates RL Scaling Laws](https://hijkzzz.notion.site/prorl-v2)
 - (2025.08) [Your Efficient RL Framework Secretly Brings You Off-Policy RL Training](https://fengyao.notion.site/off-policy-rl#279721e3f6c48092bbe2fcfe0e9c6b33)
