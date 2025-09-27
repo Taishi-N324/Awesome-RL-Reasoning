@@ -17,6 +17,7 @@
 
 ### Technical Report
 
+- (2025.09) [LongCat-Flash-Thinking Technical Report](https://arxiv.org/abs/2509.18883)
 - (2025.08) [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471)
 - (2025.07) [Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534)
 - (2025.06) [Magistral](https://arxiv.org/abs/2506.10910)
