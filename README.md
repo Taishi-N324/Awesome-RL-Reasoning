@@ -8,6 +8,7 @@
 
 ### Algorithm
 
+- (2025.08) [Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning](https://arxiv.org/abs/2508.08221)
 - (2025.07) [Group Sequence Policy Optimization](https://arxiv.org/abs/2507.18071)
 - (2025.06) [Truncated Proximal Policy Optimization](https://arxiv.org/abs/2506.15050)
 - (2025.04) [VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks](https://arxiv.org/abs/2504.05118)
