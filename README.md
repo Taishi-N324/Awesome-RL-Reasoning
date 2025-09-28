@@ -23,6 +23,10 @@
 - (2025.05) [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](https://arxiv.org/abs/2505.24864)
 - (2025.05) [AceReason-Nemotron: Advancing Math and Code Reasoning through Reinforcement Learning](https://arxiv.org/abs/2505.16400)
 
+### Asynchronous
+
+- (2025.05) [AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://arxiv.org/abs/2505.24298)
+
 ### Technical Report
 
 - (2025.09) [LongCat-Flash-Thinking Technical Report](https://arxiv.org/abs/2509.18883)
@@ -70,3 +74,7 @@
 - ![Stars](https://img.shields.io/github/stars/NovaSky-AI/SkyRL?style=social)
   ![Forks](https://img.shields.io/github/forks/NovaSky-AI/SkyRL?style=social)
   [SkyRL](https://github.com/NovaSky-AI/SkyRL)
+
+- ![Stars](https://img.shields.io/github/stars/inclusionAI/AReaL?style=social)
+  ![Forks](https://img.shields.io/github/forks/inclusionAI/AReaL?style=social)
+  [AReaL](https://github.com/inclusionAI/AReaL)
