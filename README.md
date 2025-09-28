@@ -32,6 +32,7 @@
 - (2025.09) [LongCat-Flash-Thinking Technical Report](https://arxiv.org/abs/2509.18883)
 - (2025.08) [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471)
 - (2025.07) [Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534)
+- (2025.06) [Hunyuan-A13B Technical Report](https://github.com/Tencent-Hunyuan/Hunyuan-A13B/blob/2798f3c8b6a69e0ce93950b0d2417203cf950fa0/report/Hunyuan_A13B_Technical_Report.pdf)
 - (2025.06) [MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](https://arxiv.org/abs/2506.13585)
 - (2025.06) [Magistral](https://arxiv.org/abs/2506.10910)
 - (2025.05) [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/abs/2505.22312)
