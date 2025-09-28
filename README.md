@@ -17,6 +17,7 @@
 
 ### Scaling
 
+- (2025.06) [AceReason-Nemotron 1.1: Advancing Math and Code Reasoning through SFT and RL Synergy](https://arxiv.org/abs/2506.13284)
 - (2025.05) [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](https://arxiv.org/abs/2505.24864)
 
 ### Technical Report
