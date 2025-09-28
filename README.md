@@ -15,6 +15,10 @@
 - (2025.03) [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/abs/2503.14476)
 - (2024.02) [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
 
+### Scaling
+
+- (2025.05) [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](https://arxiv.org/abs/2505.24864)
+
 ### Technical Report
 
 - (2025.09) [LongCat-Flash-Thinking Technical Report](https://arxiv.org/abs/2509.18883)
@@ -24,6 +28,7 @@
 - (2025.06) [Magistral](https://arxiv.org/abs/2506.10910)
 - (2025.05) [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/abs/2505.22312)
 - (2025.05) [Qwen3 Technical Report](https://arxiv.org/abs/2505.09388)
+- (2025.05) [Llama-Nemotron: Efficient Reasoning Models](https://arxiv.org/abs/2505.00949)
 - (2025.04) [Seed1.5-Thinking: Advancing Superb Reasoning Models with Reinforcement Learning](https://arxiv.org/abs/2504.13914)
 - (2025.01) [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
 - (2025.01) [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599)
