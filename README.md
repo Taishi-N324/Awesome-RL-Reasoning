@@ -29,6 +29,7 @@
 
 ### Technical Report
 
+- (2025.09) [CWM: An Open-Weights LLM for Research on Code Generation with World Models](https://ai.meta.com/research/publications/cwm-an-open-weights-llm-for-research-on-code-generation-with-world-models)
 - (2025.09) [LongCat-Flash-Thinking Technical Report](https://arxiv.org/abs/2509.18883)
 - (2025.08) [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471)
 - (2025.07) [Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534)
