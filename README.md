@@ -46,6 +46,7 @@
 
 ## Blogs
 
+- (2025.09) [Towards Deterministic Inference in SGLang and Reproducible RL Training](https://lmsys.org/blog/2025-09-22-sglang-deterministic)
 - (2025.09) [When Speed Kills Stability: Demystifying RL Collapse from the Training-Inference Mismatch](https://yingru.notion.site/When-Speed-Kills-Stability-Demystifying-RL-Collapse-from-the-Training-Inference-Mismatch-271211a558b7808d8b12d403fd15edda)
 - (2025.09) [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference)
 - (2025.08) [ProRL V2 - Prolonged Training Validates RL Scaling Laws](https://hijkzzz.notion.site/prorl-v2)
