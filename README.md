@@ -29,21 +29,21 @@
 
 ### Technical Report
 
-- (2025.09) [DeepSeek-V3.2-Exp: Boosting Long-Context Efficiency with DeepSeek Sparse Attention](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp/blob/2305c7ec3bf4b357dc0aee8dd97e0a1cbc0ea0e1/DeepSeek_V3_2.pdf)
-- (2025.09) [CWM: An Open-Weights LLM for Research on Code Generation with World Models](https://ai.meta.com/research/publications/cwm-an-open-weights-llm-for-research-on-code-generation-with-world-models)
-- (2025.09) [LongCat-Flash-Thinking Technical Report](https://arxiv.org/abs/2509.18883)
-- (2025.08) [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471)
-- (2025.07) [Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534)
-- (2025.06) [Hunyuan-A13B Technical Report](https://github.com/Tencent-Hunyuan/Hunyuan-A13B/blob/2798f3c8b6a69e0ce93950b0d2417203cf950fa0/report/Hunyuan_A13B_Technical_Report.pdf)
-- (2025.06) [MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](https://arxiv.org/abs/2506.13585)
-- (2025.06) [Magistral](https://arxiv.org/abs/2506.10910)
-- (2025.05) [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/abs/2505.22312)
-- (2025.05) [Qwen3 Technical Report](https://arxiv.org/abs/2505.09388)
-- (2025.05) [Llama-Nemotron: Efficient Reasoning Models](https://arxiv.org/abs/2505.00949)
-- (2025.04) [Phi-4-reasoning Technical Report](https://arxiv.org/abs/2504.21318)
-- (2025.04) [Seed1.5-Thinking: Advancing Superb Reasoning Models with Reinforcement Learning](https://arxiv.org/abs/2504.13914)
-- (2025.01) [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
-- (2025.01) [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599)
+- (2025.09) [DeepSeek-V3.2-Exp: Boosting Long-Context Efficiency with DeepSeek Sparse Attention](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp/blob/2305c7ec3bf4b357dc0aee8dd97e0a1cbc0ea0e1/DeepSeek_V3_2.pdf), [DeepSeek-AI]
+- (2025.09) [CWM: An Open-Weights LLM for Research on Code Generation with World Models](https://ai.meta.com/research/publications/cwm-an-open-weights-llm-for-research-on-code-generation-with-world-models), [Meta FAIR CodeGen Team]
+- (2025.09) [LongCat-Flash-Thinking Technical Report](https://arxiv.org/abs/2509.18883), [Meituan LongCat Team]
+- (2025.08) [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471), [GLM-4.5 Team]
+- (2025.07) [Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534), [Kimi Team]
+- (2025.06) [Hunyuan-A13B Technical Report](https://github.com/Tencent-Hunyuan/Hunyuan-A13B/blob/2798f3c8b6a69e0ce93950b0d2417203cf950fa0/report/Hunyuan_A13B_Technical_Report.pdf), [Tencent Hunyuan Team]
+- (2025.06) [MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](https://arxiv.org/abs/2506.13585), [MiniMax]
+- (2025.06) [Magistral](https://arxiv.org/abs/2506.10910), [Mistral-AI]
+- (2025.05) [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/abs/2505.22312), [Skywork AI]
+- (2025.05) [Qwen3 Technical Report](https://arxiv.org/abs/2505.09388), [Qwen Team]
+- (2025.05) [Llama-Nemotron: Efficient Reasoning Models](https://arxiv.org/abs/2505.00949), [NVIDIA]
+- (2025.04) [Phi-4-reasoning Technical Report](https://arxiv.org/abs/2504.21318), [Microsoft]
+- (2025.04) [Seed1.5-Thinking: Advancing Superb Reasoning Models with Reinforcement Learning](https://arxiv.org/abs/2504.13914), [ByteDance Seed]
+- (2025.01) [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948), [DeepSeek-AI]
+- (2025.01) [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599), [Kimi Team]
 
 ## Blogs
 
