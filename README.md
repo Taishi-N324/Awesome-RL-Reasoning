@@ -8,18 +8,18 @@
 
 ### Algorithm
 
-- (2025.08) [Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning](https://arxiv.org/abs/2508.09726)
-- (2025.08) [Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning](https://arxiv.org/abs/2508.08221)
-- (2025.07) [Group Sequence Policy Optimization](https://arxiv.org/abs/2507.18071)
-- (2025.06) [Truncated Proximal Policy Optimization](https://arxiv.org/abs/2506.15050)
-- (2025.04) [VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks](https://arxiv.org/abs/2504.05118)
+- (2025.08) [Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning](https://arxiv.org/abs/2508.09726), [Shrivastava+]
+- (2025.08) [Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning](https://arxiv.org/abs/2508.08221), [Liu+]
+- (2025.07) [Group Sequence Policy Optimization](https://arxiv.org/abs/2507.18071), [Zheng+]
+- (2025.06) [Truncated Proximal Policy Optimization](https://arxiv.org/abs/2506.15050), [Fan+]
+- (2025.04) [VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks](https://arxiv.org/abs/2504.05118), [Yue+]
 - (2025.03) [Understanding R1-Zero-Like Training: A Critical Perspective](https://arxiv.org/abs/2503.20783), [Liu+, COLM 2025]
 - (2025.03) [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/abs/2503.14476), [Yu+, NeurIPS 2025]
-- (2024.02) [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
+- (2024.02) [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300), [Shao+]
 
 ### Scaling
 
-- (2025.06) [AceReason-Nemotron 1.1: Advancing Math and Code Reasoning through SFT and RL Synergy](https://arxiv.org/abs/2506.13284)
+- (2025.06) [AceReason-Nemotron 1.1: Advancing Math and Code Reasoning through SFT and RL Synergy](https://arxiv.org/abs/2506.13284), [Liu+]
 - (2025.05) [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](https://arxiv.org/abs/2505.24864), [Liu+, NeurIPS 2025]
 - (2025.05) [AceReason-Nemotron: Advancing Math and Code Reasoning through Reinforcement Learning](https://arxiv.org/abs/2505.16400), [Chen+, NeurIPS 2025]
 
