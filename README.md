@@ -92,3 +92,7 @@
 - ![Stars](https://img.shields.io/github/stars/inclusionAI/AReaL?style=social)
   ![Forks](https://img.shields.io/github/forks/inclusionAI/AReaL?style=social)
   [AReaL](https://github.com/inclusionAI/AReaL)
+
+- ![Stars](https://img.shields.io/github/stars/ServiceNow/PipelineRL?style=social)
+  ![Forks](https://img.shields.io/github/forks/ServiceNow/PipelineRL?style=social)
+  [PipelineRL](https://github.com/ServiceNow/PipelineRL)
