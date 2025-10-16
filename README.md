@@ -19,6 +19,7 @@
 
 ### Scaling
 
+- (2025.10) [The Art of Scaling Reinforcement Learning Compute for LLMs](https://arxiv.org/abs/2510.13786), [Khatri+]
 - (2025.06) [AceReason-Nemotron 1.1: Advancing Math and Code Reasoning through SFT and RL Synergy](https://arxiv.org/abs/2506.13284), [Liu+]
 - (2025.05) [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](https://arxiv.org/abs/2505.24864), [Liu+, NeurIPS 2025]
 - (2025.05) [AceReason-Nemotron: Advancing Math and Code Reasoning through Reinforcement Learning](https://arxiv.org/abs/2505.16400), [Chen+, NeurIPS 2025]
