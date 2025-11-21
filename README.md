@@ -51,6 +51,7 @@
 
 ### Deterministic and Reproducibility
 
+- (2025.11) [No More Train-Inference Mismatch: Bitwise Consistent On-Policy Reinforcement Learning with vLLM and TorchTitan](https://blog.vllm.ai/2025/11/10/bitwise-consistent-train-inference.html), [vLLM and TorchTitan Teams]
 - (2025.09) [Towards Deterministic Inference in SGLang and Reproducible RL Training](https://lmsys.org/blog/2025-09-22-sglang-deterministic), [The SGLang Team]
 - (2025.09) [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference), [Horace He and Thinking Machines Lab]
 
