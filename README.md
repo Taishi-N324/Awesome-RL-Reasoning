@@ -30,6 +30,7 @@
 
 ### Technical Report
 
+- (2025.11) [Olmo 3](https://www.datocms-assets.com/64837/1763662397-1763646865-olmo_3_technical_report-1.pdf), [Olmo Team]
 - (2025.10) [Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale Thinking Model](https://arxiv.org/abs/2510.18855), [Ling Team]
 - (2025.09) [DeepSeek-V3.2-Exp: Boosting Long-Context Efficiency with DeepSeek Sparse Attention](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp/blob/2305c7ec3bf4b357dc0aee8dd97e0a1cbc0ea0e1/DeepSeek_V3_2.pdf), [DeepSeek-AI]
 - (2025.09) [CWM: An Open-Weights LLM for Research on Code Generation with World Models](https://ai.meta.com/research/publications/cwm-an-open-weights-llm-for-research-on-code-generation-with-world-models), [Meta FAIR CodeGen Team]
