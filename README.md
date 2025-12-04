@@ -27,6 +27,7 @@
 
 ### Asynchronous
 
+- (2025.09) [PipelineRL: Faster On-policy Reinforcement Learning for Long Sequence Generation](https://arxiv.org/abs/2509.19128), [Piché+]
 - (2025.05) [AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://arxiv.org/abs/2505.24298), [Fu+, NeurIPS 2025]
 
 ### Technical Report
