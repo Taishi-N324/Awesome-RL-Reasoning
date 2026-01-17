@@ -9,6 +9,7 @@
 ### Algorithm
 
 - (2025.12) [Stabilizing Reinforcement Learning with LLMs: Formulation and Practices](https://www.arxiv.org/abs/2512.01374), [Zheng+]
+- (2025.10) [Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers](https://arxiv.org/abs/2510.11370), [Ma+]
 - (2025.08) [Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning](https://arxiv.org/abs/2508.09726), [Shrivastava+]
 - (2025.08) [Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning](https://arxiv.org/abs/2508.08221), [Liu+]
 - (2025.07) [Group Sequence Policy Optimization](https://arxiv.org/abs/2507.18071), [Zheng+]
