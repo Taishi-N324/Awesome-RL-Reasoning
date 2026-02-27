@@ -33,6 +33,7 @@
 
 ### Technical Report
 
+- (2026.02) [GLM-5: from Vibe Coding to Agentic Engineering](https://arxiv.org/abs/2602.15763), [GLM-5-Team]
 - (2026.02) [Kimi K2.5: Visual Agentic Intelligence](https://arxiv.org/abs/2602.02276), [Kimi Team]
 - (2025.12) [MiMo-V2-Flash Technical Report](https://github.com/XiaomiMiMo/MiMo-V2-Flash/blob/main/paper.pdf), [LLM-Core Xiaomi]
 - (2025.11) [Olmo 3](https://www.datocms-assets.com/64837/1763662397-1763646865-olmo_3_technical_report-1.pdf), [Olmo Team]
