@@ -1,6 +1,6 @@
 # Awesome-RL-Reasoning
 
-[![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/bruno686/Awesome-RL-based-LLM-Reasoning/pulls)
+[![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/Taishi-N324/Awesome-RL-Reasoning/pulls)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -8,6 +8,7 @@
 
 ### Algorithm
 
+- (2026.02) [Maximum Likelihood Reinforcement Learning](https://arxiv.org/abs/2602.02710), [Tajwar+]
 - (2025.12) [Stabilizing Reinforcement Learning with LLMs: Formulation and Practices](https://www.arxiv.org/abs/2512.01374), [Zheng+]
 - (2025.10) [Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers](https://arxiv.org/abs/2510.11370), [Ma+]
 - (2025.08) [Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning](https://arxiv.org/abs/2508.09726), [Shrivastava+]
