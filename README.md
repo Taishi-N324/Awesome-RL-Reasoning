@@ -34,6 +34,7 @@
 
 ### Technical Report
 
+- (2026.04) [JoyAI-LLM Flash: Advancing Mid-Scale LLMs with Token Efficiency](https://arxiv.org/abs/2604.03044), [JD.com]
 - (2026.02) [GLM-5: from Vibe Coding to Agentic Engineering](https://arxiv.org/abs/2602.15763), [GLM-5-Team]
 - (2026.02) [Nanbeige4.1-3B: A Small General Model that Reasons, Aligns, and Acts](https://arxiv.org/abs/2602.13367), [Yang+]
 - (2026.02) [Kimi K2.5: Visual Agentic Intelligence](https://arxiv.org/abs/2602.02276), [Kimi Team]
