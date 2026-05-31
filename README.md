@@ -34,6 +34,7 @@
 
 ### Technical Report
 
+- (2026.04) [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf), [DeepSeek-AI]
 - (2026.04) [JoyAI-LLM Flash: Advancing Mid-Scale LLMs with Token Efficiency](https://arxiv.org/abs/2604.03044), [JD.com]
 - (2026.03) [Composer 2 Technical Report](https://arxiv.org/abs/2603.24477), [Cursor Research]
 - (2026.02) [GLM-5: from Vibe Coding to Agentic Engineering](https://arxiv.org/abs/2602.15763), [GLM-5-Team]
@@ -68,6 +69,7 @@
 
 ### Training–Inference Mismatch
 
+- (2026.05) [KPop: Taming Training–Inference Mismatch in Reinforcement Learning with Adaptive Masking Regions](https://ringtech.notion.site/kpop), [Guo+]
 - (2025.09) [When Speed Kills Stability: Demystifying RL Collapse from the Training-Inference Mismatch](https://yingru.notion.site/When-Speed-Kills-Stability-Demystifying-RL-Collapse-from-the-Training-Inference-Mismatch-271211a558b7808d8b12d403fd15edda), [Liu+]
 - (2025.08) [Your Efficient RL Framework Secretly Brings You Off-Policy RL Training](https://fengyao.notion.site/off-policy-rl#279721e3f6c48092bbe2fcfe0e9c6b33), [Yao+]
 
