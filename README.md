@@ -29,6 +29,7 @@
 
 ### Asynchronous
 
+- (2026.07) [Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.07508), [Hou+]
 - (2025.09) [PipelineRL: Faster On-policy Reinforcement Learning for Long Sequence Generation](https://arxiv.org/abs/2509.19128), [Piché+]
 - (2025.05) [AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://arxiv.org/abs/2505.24298), [Fu+, NeurIPS 2025]
 
