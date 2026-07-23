@@ -51,6 +51,7 @@
 ### Technical Report
 
 - (2026.06) [MAI-Thinking-1: Building a Hill-Climbing Machine](https://microsoft.ai/pdf/mai-thinking-1.pdf), [Microsoft AI]
+- (2026.05) [The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence](https://arxiv.org/abs/2605.26494), [MiniMax]
 - (2026.04) [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://arxiv.org/abs/2606.19348), [DeepSeek-AI]
 - (2026.04) [JoyAI-LLM Flash: Advancing Mid-Scale LLMs with Token Efficiency](https://arxiv.org/abs/2604.03044), [JD.com]
 - (2026.03) [Composer 2 Technical Report](https://arxiv.org/abs/2603.24477), [Cursor Research]
