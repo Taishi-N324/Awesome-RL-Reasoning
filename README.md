@@ -27,6 +27,22 @@
 - (2025.05) [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](https://arxiv.org/abs/2505.24864), [Liu+, NeurIPS 2025]
 - (2025.05) [AceReason-Nemotron: Advancing Math and Code Reasoning through Reinforcement Learning](https://arxiv.org/abs/2505.16400), [Chen+, NeurIPS 2025]
 
+### Distillation
+
+- (2026.05) [ROSD: Reflective On-Policy Self-Distillation for Language Model Reasoning across Domains](https://arxiv.org/abs/2605.28014), [Zhao+]
+- (2026.05) [Rethinking On-Policy Self-Distillation for Thinking Models](https://openreview.net/forum?id=VhCJItwQHn), [Kaur+]
+- (2026.05) [A Brief Overview: On-Policy Self-Distillation In Large Language Models](https://arxiv.org/abs/2605.18141), [Cui+]
+- (2026.05) [OGLS-SD: On-Policy Self-Distillation with Outcome-Guided Logit Steering for LLM Reasoning](https://arxiv.org/abs/2605.12400), [Yang+]
+- (2026.05) [The Many Faces of On-Policy Distillation: Pitfalls, Mechanisms, and Fixes](https://arxiv.org/abs/2605.11182), [Zhu+]
+- (2026.05) [OPSD Compresses What RLVR Teaches: A Post-RL Compaction Stage for Reasoning Models](https://arxiv.org/abs/2605.06188), [Kim+]
+- (2026.04) [OPSDL: On-Policy Self-Distillation for Long-Context Language Models](https://arxiv.org/abs/2604.17535), [Zhang+]
+- (2026.04) [Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe](https://arxiv.org/abs/2604.13016), [Li+]
+- (2026.04) [Self-Distillation Zero: Self-Revision Turns Binary Rewards into Dense Supervision](https://arxiv.org/abs/2604.12002), [He+]
+- (2026.03) [HDPO: Hybrid Distillation Policy Optimization via Privileged Self-Distillation](https://arxiv.org/abs/2603.23871), [Ding]
+- (2026.01) [Reinforcement Learning via Self-Distillation](https://arxiv.org/abs/2601.20802), [Hübotter+]
+- (2026.01) [Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](https://arxiv.org/abs/2601.18734), [Zhao+]
+- (2023.06) [On-Policy Distillation of Language Models: Learning from Self-Generated Mistakes](https://arxiv.org/abs/2306.13649), [Agarwal+, ICLR 2024]
+
 ### Asynchronous
 
 - (2025.09) [PipelineRL: Faster On-policy Reinforcement Learning for Long Sequence Generation](https://arxiv.org/abs/2509.19128), [Piché+]
@@ -34,7 +50,8 @@
 
 ### Technical Report
 
-- (2026.04) [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf), [DeepSeek-AI]
+- (2026.06) [MAI-Thinking-1: Building a Hill-Climbing Machine](https://microsoft.ai/pdf/mai-thinking-1.pdf), [Microsoft AI]
+- (2026.04) [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://arxiv.org/abs/2606.19348), [DeepSeek-AI]
 - (2026.04) [JoyAI-LLM Flash: Advancing Mid-Scale LLMs with Token Efficiency](https://arxiv.org/abs/2604.03044), [JD.com]
 - (2026.03) [Composer 2 Technical Report](https://arxiv.org/abs/2603.24477), [Cursor Research]
 - (2026.02) [GLM-5: from Vibe Coding to Agentic Engineering](https://arxiv.org/abs/2602.15763), [GLM-5-Team]
