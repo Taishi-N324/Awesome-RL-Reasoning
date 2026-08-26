@@ -119,3 +119,7 @@
 - ![Stars](https://img.shields.io/github/stars/radixark/miles?style=social)
   ![Forks](https://img.shields.io/github/forks/radixark/miles?style=social)
   [miles](https://github.com/radixark/miles)
+
+- ![Stars](https://img.shields.io/github/stars/vllm-project/vime?style=social)
+  ![Forks](https://img.shields.io/github/forks/vllm-project/vime?style=social)
+  [vime](https://github.com/vllm-project/vime)
